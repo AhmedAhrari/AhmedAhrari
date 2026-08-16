@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m an AI engineer who lives in the terminal.<br>🤖 AI & MLOps Engineer | Linux 🐧 | Open Source ❤️<br>Automating ML lifecycles with free & open tools.<br><br>☢ Interested in algorithms, solving complex problems, and searching in data.<br><br>🐧 Linux user : Linux isn't just my OS ! it's my workspace, my debugger, and my comfort zone.<br><br>     sudo make me-a-coffee ☕
+👋 I’m an AI engineer who lives in the terminal.<br>🤖 AI & MLOps Engineer |  Software Engineer 💻 | Linux 🐧 | Open Source ❤️<br>Automating ML lifecycles with free & open tools.<br><br>☢ Interested in algorithms, solving complex problems, and searching in data.<br><br>🐧 Linux user : Linux isn't just my OS ! it's my workspace, my debugger, and my comfort zone.<br><br>     sudo make me-a-coffee ☕
 
 
 ## 🌐 Socials:
